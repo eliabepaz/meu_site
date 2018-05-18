@@ -3,3 +3,29 @@ body {background-image: url(https://scontent.fcpv3-1.fna.fbcdn.net/v/t1.0-9/3117
 h1 {color:yellow;}
 
 p {color:white;}
+
+a:link{color:#DF7401;
+	text-decoration:none;
+}
+a:visited{color:#DF7401;
+	text-decoration:none;
+}
+a:hover{
+	
+	
+}
+a:link {
+color:#DF7401;
+background-color:#0489B1;
+text-decoration:none;
+border-style:outset;
+}
+a:visited {
+color:#DF7401;
+text-decoration:none;
+}
+a:hover {
+color:##F4FA58;
+background-color:#0B0B61;
+text-decoration:none;
+border-style:groove;}
